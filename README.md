@@ -19,7 +19,7 @@ Once in the folder where **interpreter.txt** exists:
 
 `flex interpreter.txt`
 
-`gcc yy.lex.c -lfl`
+`gcc lex.yy.c -lfl`
 
 `./a.out text.txt`
 
