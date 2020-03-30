@@ -1,0 +1,10 @@
+begin
+    int a = 10;
+    int b = 20;
+    if(a > 5){
+        b = b - 5;
+        boolean variable = true;
+    }else{
+        float c = 1.1;
+    }
+end
